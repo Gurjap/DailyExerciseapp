@@ -1,0 +1,7 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/standing_calf_raises_wall_1" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/standing_calf_raises_wall_2" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/standing_calf_raises_wall_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/standing_calf_raises_wall_4" android:duration="@string/speed"/>
+
+</animation-list>

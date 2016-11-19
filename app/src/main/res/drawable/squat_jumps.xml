@@ -1,0 +1,9 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/squat_jumps_1" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/squat_jumps_2" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/squat_jumps_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/squat_jumps_4" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/squat_jumps_5" android:duration="@string/speed"/>
+
+    />
+</animation-list>

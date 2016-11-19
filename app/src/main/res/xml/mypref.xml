@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Enable Splash Screen?"
+        android:summary="do you want splash?"
+        android:key="splash"/>
+    <CheckBoxPreference android:title="Enable Sound?"
+        android:summary="do you want splash?"
+        android:key="sound"/>
+
+    <EditTextPreference android:title="Enter your name"
+      android:key="textsave"
+        android:summary="what should we address you"/>
+ <ListPreference android:entries="@array/myarry" android:title="Update"
+     android:entryValues="@array/myarrary"
+     android:summary="when this app should cintact server"
+     android:key="update"/>
+</PreferenceScreen>

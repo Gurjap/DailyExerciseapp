@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="myarry">
+
+
+        <item>once in a day
+        </item>
+        <item>once in a week
+        </item>
+        <item>once in a month
+        </item>
+        <item>once in a year
+        </item>
+    </string-array>
+    <string-array name="myarrary">
+
+
+        <item>1
+        </item>
+        <item>7
+        </item>
+        <item>30
+        </item>
+        <item>367
+        </item>
+    </string-array>
+
+</resources>

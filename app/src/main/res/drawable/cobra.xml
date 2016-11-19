@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/cobra_1" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/cobra_2" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/cobra_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/cobra_2" android:duration="@string/speed"/>
+</animation-list>

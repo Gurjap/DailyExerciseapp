@@ -1,0 +1,10 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/glute_activation_lunges_1" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_2" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_4" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_5" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_4" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/glute_activation_lunges_2" android:duration="@string/speed"/>
+</animation-list>

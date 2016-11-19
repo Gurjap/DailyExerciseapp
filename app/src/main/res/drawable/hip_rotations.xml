@@ -1,0 +1,8 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/hip_rotations_1" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/hip_rotations_2" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/hip_rotations_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/hip_rotations_4" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/hip_rotations_3" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/hip_rotations_2" android:duration="@string/speed"/>
+</animation-list>

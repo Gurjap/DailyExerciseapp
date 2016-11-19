@@ -1,0 +1,4 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/side_plank_1" android:duration="@string/speed"/>
+    <item android:drawable="@drawable/side_plank_2" android:duration="@string/speed"/>
+</animation-list>
